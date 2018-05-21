@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\359525\\Desktop\\Day5\\FragmentDynamicLayoutWithActionBar\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\359525\\Desktop\\Day5\\FragmentDynamicLayoutWithActionBar\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "8,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "274,127,55",
+                        "endLines": "12,7,2",
+                        "endColumns": "19,19,71",
+                        "endOffsets": "719,269,122"
+                    },
+                    "to": {
+                        "startLines": "2,7,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,505,652",
+                        "endLines": "6,11,12",
+                        "endColumns": "19,19,71",
+                        "endOffsets": "500,647,719"
+                    }
+                }
+            ]
+        }
+    ]
+}
